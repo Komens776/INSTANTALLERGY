@@ -1,0 +1,10 @@
+{
+  "name": "Food Scanner",
+  "description": "An intelligent food scanner and ingredient label analyzer to detect allergens and verify dietary-safe choices.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
